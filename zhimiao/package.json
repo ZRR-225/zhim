@@ -26,7 +26,7 @@
     "gulp-replace": "0.6.1",
     "gulp-shell": "0.6.5",
     "lodash": "^4.17.11",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "npm": "^6.9.0",
     "qiniu": "^7.2.2",
     "sass-loader": "6.0.6",
